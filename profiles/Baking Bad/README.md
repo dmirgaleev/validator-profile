@@ -8,8 +8,9 @@ Telegram: @baking_bad_chat
 
 Baking Bad is a team of developers, crypto-enthusiasts and just friends involved in blockchain world since 2017 and lately most time in Tezos. Our philosophy is making blockchain world difference. Our principles are to make everything as simple and convenient as possible to minimize the entry threshold for new users and increase the efficiency of the entire ecosystem.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8tLuD5WQ03E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<p align="left">
+  <img  src="https://baking-bad.org/img/logo-full.png">
+</p>
 
 ## Team
 
@@ -32,7 +33,7 @@ Baking Bad is a team of developers, crypto-enthusiasts and just friends involved
 
 ### Baking Bad
  - [Baking Bad](https://baking-bad.org) - Audit & Rating of Tezos bakers. Also provides API for access public bakers data.
- - [Baking Bad Bot](tg://resolve?domain=baking_bad_bot) - Telegram bot that notifies you of rewards gained, payouts received or if your baker has skipped payout or paid less than expected.
+ - [Baking Bad Bot](https://t.me/baking_bad_bot) - Telegram bot that notifies you of rewards gained, payouts received or if your baker has skipped payout or paid less than expected.
 
 ### Tezos explorers
  - [Better Call Dev](https://github.com/baking-bad/better-call-dev) - Smart contract meta-explorer for Tezos, created specifically for smart contract developers.
@@ -43,7 +44,7 @@ Baking Bad is a team of developers, crypto-enthusiasts and just friends involved
  - [Netezos](https://github.com/baking-bad/netezos) - C# SDK for Tezos: RPC, cryptography, operations, Ledger support.
 
 ### Tezos dev tools
- - [Faucet bot](tg://resolve?domain=tezos_faucet_bot) - Tezos babylonnet & carthagenet faucet, which provides developers with some tezzies for testing purposes.
+ - [Faucet bot](https://t.me/tezos_faucet_bot) - Tezos babylonnet & carthagenet faucet, which provides developers with some tezzies for testing purposes.
  - [Mystique API](https://mystique.tzkt.io/) - A subset of TzScan endpoints commonly used by bakers and services (temporary service).
  - [Michelson kernel](https://github.com/baking-bad/michelson-kernel) - Tezos native contract language REPL in a Jupyter notebook.
  - [Michelson syntax](https://marketplace.visualstudio.com/items?itemName=baking-bad.michelson) - Visual Studio Code extension providing syntax highlighting for Michelson and Morley source files.
@@ -57,13 +58,13 @@ Baking Bad is a team of developers, crypto-enthusiasts and just friends involved
 
 Actively participate in CASI with the best results.
 
-## Contacts
+## Contact us
 
 We are happy to hear any feedback (both positive and negative), so feel free to contact us:
 
  - [GitHub](https://github.com/baking-bad)
  - [Twitter](https://twitter.com/TezosBakingBad)
- - [Telegram](tg://resolve?domain=baking_bad_chat)
+ - [Telegram](https://t.me/baking_bad_chat)
  - [Slack](https://tezos-dev.slack.com/archives/CV5NX7F2L)
  - [Mail](mailto:hello@baking-bad.org)
  - [Medium](https://medium.com/@_MisterWalker_)
@@ -79,27 +80,5 @@ We are happy to hear any feedback (both positive and negative), so feel free to 
  [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 
  ---
-
-
-
-
-
-## Contact Us
-
-Have questions? You can reach us:
-
-- Email: contact@figment.network
-
-
-### Website
-
-https://figment.network/
-
-https://figment.network/networks/nucypher/
-
-At Figment Networks our mission is to support the wider adoption, growth and long term success of stake based protocols. 
-This is Figment’s unique approach to Proof of Stake: we provide not just enterprise-grade delegation services to token holders,
-we build open source software such as the Hubble staking explorer, real world compliance & reporting tools, and actively 
-participate in community & governance.
 
 
