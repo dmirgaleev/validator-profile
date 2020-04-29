@@ -8,8 +8,8 @@ Telegram: @baking_bad_chat
 
 Baking Bad is a team of developers, crypto-enthusiasts and just friends involved in blockchain world since 2017 and lately most time in Tezos. Our philosophy is making blockchain world difference. Our principles are to make everything as simple and convenient as possible to minimize the entry threshold for new users and increase the efficiency of the entire ecosystem.
 
-<p align="left">
-  <img  src="https://baking-bad.org/img/logo-full.png">
+<p align="center">
+  <img  height="300" src="https://baking-bad.org/img/logo-full.png">
 </p>
 
 ## Team
