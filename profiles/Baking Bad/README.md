@@ -14,10 +14,11 @@ Baking Bad is a blockchain-oriented team of developers, mainly involved in the T
 
 ## Team
 
-| Name               |Branch      | Role            | 
-| -------------------|------------|-----------------| 
-| Max Strebkov       | Baking Bad | Core dev        | 
-| Dmitry Mirgaleev   | Baking Bad | Core dev        | 
+| Name               | Role                 | 
+| -------------------|----------------------| 
+| Vladimir Zarechnev | Founder / Community  | 
+| Dmitry Mirgaleev   | Core dev / devOps    | 
+
 The whole team can be found  [here](https://baking-bad.org/docs)
 ## Our projects
 
