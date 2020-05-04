@@ -20,12 +20,14 @@ Baking Bad is a blockchain-oriented team of developers, mainly involved in the T
 | Dmitry Mirgaleev   | Core dev / devOps    | 
 
 The whole team can be found  [here](https://baking-bad.org/docs)
+
 ## Our projects
 
  - [Baking Bad](https://baking-bad.org) - Audit & Rating of Tezos bakers. Also provides API for access public bakers data.
  - [Better Call Dev](https://github.com/baking-bad/better-call-dev) - Smart contract meta-explorer for Tezos, created specifically for smart contract developers.
  - [TzKT](https://github.com/baking-bad/tzkt) - An advanced Tezos blockchain explorer based on its own open-source indexer with built-in performant API.
  - [Atomex](https://atomex.me/) - Hybrid exchange based on atomic swap technology and multicurrency HD wallet.
+ - Many of our other infrastructure projects for developers and users can be found [here](https://baking-bad.org/docs).
 
 ## Ecosystem Contributions
 
