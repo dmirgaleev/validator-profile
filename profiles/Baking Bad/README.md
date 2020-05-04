@@ -37,7 +37,6 @@ Actively participate in CASI with the best results. By participating in the NyС
  - [Twitter](https://twitter.com/TezosBakingBad)
  - [Telegram](https://t.me/baking_bad_chat)
  - [Slack](https://tezos-dev.slack.com/archives/CV5NX7F2L)
- - [Mail](mailto:hello@baking-bad.org)
  - [Medium](https://medium.com/@_MisterWalker_)
  - [YouTube](https://www.youtube.com/channel/UCg-jUk-6MVEMSZ4Qhfrt40Q)
  
